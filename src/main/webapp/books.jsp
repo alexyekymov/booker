@@ -4,33 +4,7 @@
 <html>
 <head>
     <title>Books</title>
-    <style>
-        .fifteen {
-            color: red;
-        }
-
-        .seventeen {
-            color: orange;
-        }
-
-        .done {
-            color: green;
-        }
-
-        table {
-            margin: auto;
-        }
-
-        .saveButton {
-            display: flex;
-            justify-content: center;
-        }
-
-        h2 {
-            display: flex;
-            justify-content: center;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <hr>
